@@ -1,0 +1,30 @@
+body{ width: 900px ;
+  height: 600px;
+   background-color:  hsl(218, 19%, 80%);
+   position: relative;
+   font-size: 15px;
+  }
+.QRimg{
+border-radius: 10px;
+height: 250px;
+width: 250px;
+padding: 5px;
+position: relative;
+left:5px;
+top:15px;
+
+}
+
+
+.Main
+ { background-color: hsl(0, 0%, 100%);
+   position: absolute;
+   height:500px;
+   width: 350px;
+   top:15%;
+   left: 55%;
+   border-radius: 7px;
+   text-align:center ;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
